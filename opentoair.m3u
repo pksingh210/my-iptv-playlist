@@ -1,9 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="Indian Live", DD National
+#EXTINF:-1 tvg-id="ddnational.in" tvg-name="DD National" group-title="Indian Live", DD National
 https://cdn.jio.com/web/live/das2_ddnational/das2_ddnational.isml/das2_ddnational-audio_eng=48000-video=2750000.m3u8
-#EXTINF:-1 group-title="Indian Live", DD News
+
+#EXTINF:-1 tvg-id="ddnews.in" tvg-name="DD News" group-title="Indian Live", DD News
 https://cdn.jio.com/web/live/das2_ddnews/das2_ddnews.isml/das2_ddnews-audio_eng=48000-video=2750000.m3u8
-#EXTINF:-1 group-title="Pakistani Live", PTV News
+
+#EXTINF:-1 tvg-id="ptvnews.pk" tvg-name="PTV News" group-title="Pakistani Live", PTV News
 https://ptvlive.vdn.dstreamone.net/ptvnews/ptvnews.stream/playlist.m3u8
-#EXTINF:-1 group-title="Pakistani Live", PTV Sports
+
+#EXTINF:-1 tvg-id="ptvsports.pk" tvg-name="PTV Sports" group-title="Pakistani Live", PTV Sports
 https://ptvlive.vdn.dstreamone.net/ptvsports/ptvsports.stream/playlist.m3u8
