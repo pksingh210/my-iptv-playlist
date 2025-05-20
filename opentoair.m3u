@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Indian Live", DD National
+https://cdn.jio.com/web/live/das2_ddnational/das2_ddnational.isml/das2_ddnational-audio_eng=48000-video=2750000.m3u8
+#EXTINF:-1 group-title="Indian Live", DD News
+https://cdn.jio.com/web/live/das2_ddnews/das2_ddnews.isml/das2_ddnews-audio_eng=48000-video=2750000.m3u8
+#EXTINF:-1 group-title="Pakistani Live", PTV News
+https://ptvlive.vdn.dstreamone.net/ptvnews/ptvnews.stream/playlist.m3u8
+#EXTINF:-1 group-title="Pakistani Live", PTV Sports
+https://ptvlive.vdn.dstreamone.net/ptvsports/ptvsports.stream/playlist.m3u8
